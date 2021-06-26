@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.IndexToString","timestamp":1623260908589,"sparkVersion":"3.1.1","uid":"IndexToString_0ad397c6341c","paramMap":{"outputCol":"predicted_weather_condition","labels":["cloudy","snowy","sunny","thunderstorm","foggy","rainy"],"inputCol":"prediction"},"defaultParamMap":{"outputCol":"IndexToString_0ad397c6341c__output"}}
