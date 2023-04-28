@@ -2,7 +2,7 @@
 
 In this project I am addressing **weather forecasting** with _Machine Learning_
 and _Big Data_ tools, in order to show whether is possible to make valuable
-predictions of metereological conditions only based on previously seen meteorological
+predictions of meteorological conditions only based on previously seen meteorological
 data. The classification goal is therefore, given a set of weather measurements,
 to predict which meteorological condition should occur.
 
